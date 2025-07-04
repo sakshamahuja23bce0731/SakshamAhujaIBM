@@ -1,0 +1,8 @@
+MIMIC-III / MIMIC-IV (MIT)
+A large, de-identified dataset of ICU patients' health data including vitals, lab tests, prescriptions, and clinical notes. Commonly used in mortality prediction, diagnosis classification, and treatment outcome analysis.
+
+BioBERT / ClinicalBERT
+Pretrained NLP models optimized for biomedical text, useful for named entity recognition, relation extraction, and question answering in clinical contexts.
+
+PubMed Central Open Access (PMC-OA)
+A vast collection of full-text biomedical articles. Ideal for training AI models in literature summarization, evidence extraction, and drug-disease relationship mining.

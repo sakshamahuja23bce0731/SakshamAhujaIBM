@@ -1,0 +1,8 @@
+CaseLaw Access Project (Harvard)
+A publicly available dataset of over 6 million U.S. court decisions, useful for training NLP models in judgment prediction, legal citation mining, and precedent analysis.
+
+LexNLP
+An open-source Python library tailored for extracting structured data from legal text. It supports tasks such as contract clause detection, date normalization, and named entity recognition specific to legal domains.
+
+Docassemble
+A tool for building intelligent legal chatbots and automating legal document generation. It allows integration with AI models for tasks such as automated form filling and interview-based legal advice.
